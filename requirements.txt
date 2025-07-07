@@ -1,0 +1,2 @@
+urwid
+libvirt-python 
